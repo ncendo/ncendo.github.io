@@ -1,4 +1,4 @@
-baseURL = 'http://www.ncendo.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Ncendo'
 theme = 'ananke'
